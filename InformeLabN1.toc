@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Tarea 1: Conectar a SQL Server desde Power BI Desktop}{1}% 
+\contentsline {section}{\numberline {2}Tarea 2: Adicionar Gr\IeC {\'a}ficos al Reporte}{2}% 
+\contentsline {section}{\numberline {3}Tarea 3: Publicar el reporte en el portal de Power BI}{3}% 
